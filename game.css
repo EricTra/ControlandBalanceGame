@@ -1,0 +1,99 @@
+body {
+    color: #fff;
+    font-size: 1.6rem; /* Adjust base font size for better responsiveness */
+}
+
+.choice-container {
+    display: flex;
+    margin-bottom: 0.8rem;
+    width: 100%;
+    border-radius: 4px;
+    background: rgb(18, 93, 255);
+    font-size: 2.5rem; /* Adjust font size for choice container */
+}
+
+.choice-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(6, 103, 247, 0.5);
+    transform: scale(1.02);
+    transition: transform 100ms;
+}
+
+.choice-prefix {
+    padding: 1.5rem 2rem; /* Adjust padding for choice prefix */
+    color: white;
+}
+
+.choice-text {
+    padding: 1.5rem;
+    width: 100%;
+}
+
+#question {
+    font-size: 2rem; /* Adjust font size for the question */
+}
+
+.correct {
+    background: linear-gradient(32deg, rgba(11, 223, 36) 0%, rgb(41, 232, 111) 100%);
+}
+
+.incorrect {
+    background: linear-gradient(32deg, rgba(230, 29, 29, 1) 0%, rgb(224, 11, 11, 1) 100%);
+}
+
+/* Heads up Display */
+#hud {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Dòng này để giữ hai phần ở giữa theo chiều dọc */
+}
+
+.hud-prefix {
+    text-align: left; /* Chỉnh left để Question progress nằm bên trái */
+    font-size: 1.8rem;
+    margin-right: 1rem; /* Khoảng cách giữa Question progress và score */
+}
+
+.hud-main-text {
+    text-align: right; /* Chỉnh right để score nằm bên phải */
+    font-size: 1.8rem;
+    margin-left: 0.5rem; /* Khoảng cách giữa Question progress và score */
+    display: flex; /* Hiển thị score và số 0 theo chiều ngang */
+    align-items: center; /* Canh chỉnh giữa score và số 0 theo chiều dọc */
+}
+
+
+#progressBar {
+    width: 90%; /* Adjust progress bar width for better responsiveness */
+    height: 3rem;
+    border: 0.2rem solid rgb(11, 223, 36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+#progressBarFull {
+    height: 100%;
+    background: rgb(11, 223, 36);
+    width: 0%;
+}
+
+@media screen and (max-width: 768px) {
+    #progressBar {
+        width: 90%;
+    }
+
+    .choice-container {
+        min-width: 90%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #progressBar {
+        width: 85%;
+    }
+
+    .choice-container {
+        min-width: 85%;
+    }
+}
