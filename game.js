@@ -16,7 +16,7 @@ let questions = [
         choice1: 'Thường xuyên tránh gặp người khác để không phải đối diện với tình huống giao tiếp căng thẳng.',
         choice2: 'Chủ yếu sử dụng lời lẽ mạnh mẽ và ác độc để làm giảm áp lực trong tình huống giao tiếp căng thẳng.',
         choice3: 'Tự cô lập và không thèm quan tâm đến ý kiến của người khác trong tình huống giao tiếp căng thẳng.',
-        choice4: 'Trong tình huống giao tiếp căng thẳng, tôi thường lắng nghe trước, thấu hiểu quan điểm của người khác, sau đó đưa ra phản hồi tích cực và kiểm soát cảm xúc của mình.',
+        choice4: 'Tôi thường lắng nghe trước, thấu hiểu quan điểm của người khác, sau đó đưa ra phản hồi tích cực và kiểm soát cảm xúc của mình.',
         answer: 4,
     },
     {
@@ -24,7 +24,7 @@ let questions = [
         choice1: 'Phản ứng bạo lực và tức giận ngay lập tức khi bị gây hấn.',
         choice2: 'Tránh gặp mọi người để không phải đối mặt với tình huống gây hấn.',
         choice3: 'Lặp lại những hành động làm tổn thương bản thân khi bị gây hấn.',
-        choice4: 'Trong tình huống bị gây hấn, tôi tập trung vào việc cân nhắc cảm xúc của mình, có thể thực hiện kỹ thuật thở sâu hoặc rời khỏi tình huống để tránh xung đột với người khác.',
+        choice4: 'Tập trung vào việc cân nhắc cảm xúc của mình, có thể thực hiện kỹ thuật thở sâu hoặc rời khỏi tình huống để tránh xung đột với người khác.',
         answer: 4,
     },
     {
@@ -32,7 +32,7 @@ let questions = [
         choice1: 'Tự ép buộc bản thân hoạt động không ngừng mà không nghỉ ngơi.',
         choice2: 'Hoàn toàn từ bỏ học tập khi gặp áp lực lớn.',
         choice3: 'Dùng các phương pháp làm việc không hiệu quả để giải quyết áp lực học tập.',
-        choice4: 'Để đối phó với áp lực học tập, tôi chia nhỏ công việc, tạo lịch học tập hiệu quả và giữ tâm trí tích cực để không để cảm xúc chi phối quyết định.',
+        choice4: 'Chia nhỏ công việc, tạo lịch học tập hiệu quả và giữ tâm trí tích cực để không để cảm xúc chi phối quyết định.',
         answer: 4,
     },
     {
@@ -40,7 +40,7 @@ let questions = [
         choice1: 'Rơi vào trạng thái tiêu cực, tự biểu lộ sự tự ti và thất vọng.',
         choice2: 'Đổ lỗi cho người khác hoặc hoàn cảnh khi gặp thất bại lớn.',
         choice3: 'Bỏ cuộc và không còn nỗ lực gì sau thất bại lớn.',
-        choice4: 'Sau khi gặp thất bại lớn, tôi tập trung vào học hỏi từ kinh nghiệm, xác định mục tiêu mới và duy trì sự lạc quan để không bị ảnh hưởng quá mức.',
+        choice4: 'Tập trung vào học hỏi từ kinh nghiệm, xác định mục tiêu mới và duy trì sự lạc quan để không bị ảnh hưởng quá mức.',
         answer: 4,
     },
 ];
