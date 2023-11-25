@@ -55,7 +55,7 @@ let questions = [
         question: 'Lợi ích của việc thực hiện kỹ thuật thở sâu và thư giãn là gì?',
         choice1: 'Kỹ thuật thở sâu không có ảnh hưởng đáng kể đến tâm trạng và cảm xúc.',
         choice2: 'Việc thư giãn chỉ là một cách để tránh những vấn đề thực tế.',
-        choice3: 'Kỹ thuật thở sâu giúp giữ bình tĩnh và kiểm soát cảm xúc trong tình huống căng thẳng. Nó làm giảm căng thẳng, tăng sự tập trung và mang lại sự thoải mái.',
+        choice3: 'Thở sâu là kỹ thuật giúp giữ bình tĩnh, kiểm soát cảm xúc trong căng thẳng, giảm căng thẳng, tăng tập trung và mang lại thoải mái.',
         choice4: ' Thực hiện thư giãn và thở sâu chỉ là sự lãng phí thời gian.',
         answer: 3,
     },
@@ -128,7 +128,7 @@ let questions = [
         choice1: 'Đặt quá nhiều kỳ vọng và chỉ tập trung vào những mục tiêu lớn mà không chú ý đến những thành tựu nhỏ.',
         choice2: 'Tự nhốt mình trong những ý kiến tiêu cực và không chấp nhận sự lạc quan.',
         choice3: 'Phụ thuộc hoàn toàn vào nguồn động viên từ người khác để duy trì tâm lý tích cực.',
-        choice4: 'Việc duy trì một tâm lý tích cực đòi hỏi sự lạc quan và lòng biết ơn. Tôi đánh giá cao khả năng nhìn nhận tích cực, dù là những thách thức nhỏ, để duy trì tâm lý tích cực.',
+        choice4: 'Việc duy trì một tâm lý tích cực đòi hỏi sự lạc quan và lòng biết ơn. Tôi đánh giá cao khả năng nhìn nhận tích cực, để duy trì tâm lý tích cực.',
         answer: 4,
     },
     {
