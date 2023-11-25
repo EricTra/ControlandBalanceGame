@@ -14,10 +14,10 @@ let questions = [
     {
         question: 'Cách bạn xử lý tình huống giao tiếp căng thẳng?',
         choice1: 'Tôi thường xuyên tránh gặp người khác để không phải đối diện với tình huống giao tiếp căng thẳng.',
-        choice2: 'Tôi chủ yếu sử dụng lời lẽ mạnh mẽ và ác độc để làm giảm áp lực trong tình huống giao tiếp căng thẳng.',
+        choice2: 'Tôi thường lắng nghe trước, thấu hiểu quan điểm của người khác, sau đó đưa ra phản hồi tích cực và kiểm soát cảm xúc của mình.',
         choice3: 'Tôi tự cô lập và không thèm quan tâm đến ý kiến của người khác trong tình huống giao tiếp căng thẳng.',
-        choice4: 'Tôi thường lắng nghe trước, thấu hiểu quan điểm của người khác, sau đó đưa ra phản hồi tích cực và kiểm soát cảm xúc của mình.',
-        answer: 4,
+        choice4: 'Tôi chủ yếu sử dụng lời lẽ mạnh mẽ và ác độc để làm giảm áp lực trong tình huống giao tiếp căng thẳng.',
+        answer: 2,
     },
     {
         question: 'Làm thế nào bạn duy trì bình tĩnh khi bị gây hấn?',
