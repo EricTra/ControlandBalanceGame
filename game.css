@@ -1,5 +1,5 @@
 body {
-    color: #fff;
+    color: #000000;
     font-size: 1.6rem; /* Adjust base font size for better responsiveness */
 }
 
@@ -21,7 +21,7 @@ body {
 
 .choice-prefix {
     padding: 1.5rem 2rem; /* Adjust padding for choice prefix */
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .choice-text {
