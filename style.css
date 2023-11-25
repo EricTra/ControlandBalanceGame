@@ -32,7 +32,7 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('images/BG.jpg') no-repeat center center fixed; 
+    background: url('images/BG.jpg') ; 
     background-size: cover;
 }
 
