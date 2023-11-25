@@ -32,13 +32,10 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 80rem;
-    margin: 0 auto;
-    padding: 2rem;
-    background-image: url('images/Bg (1).jpg');
+    background: url('images/BG.jpg') no-repeat center center fixed; 
     background-size: cover;
-    background-position: center;
 }
+
 
 .flex-column {
     display: flex;
