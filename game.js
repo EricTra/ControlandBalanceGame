@@ -29,11 +29,11 @@ let questions = [
     },
     {
         question: 'Cách bạn đối phó với áp lực học tập lớn?',
-        choice1: 'Tôi tự ép buộc bản thân hoạt động không ngừng mà không nghỉ ngơi.',
+        choice1: 'Tôi chia nhỏ công việc, tạo lịch học tập hiệu quả và giữ tâm trí tích cực để không để cảm xúc chi phối quyết định.',
         choice2: 'Tôi hoàn toàn từ bỏ học tập khi gặp áp lực lớn.',
         choice3: 'Tôi dùng các phương pháp làm việc không hiệu quả để giải quyết áp lực học tập.',
-        choice4: 'Tôi chia nhỏ công việc, tạo lịch học tập hiệu quả và giữ tâm trí tích cực để không để cảm xúc chi phối quyết định.',
-        answer: 4,
+        choice4: 'Tôi tự ép buộc bản thân hoạt động không ngừng mà không nghỉ ngơi.',
+        answer: 1,
     },
     {
         question: 'Làm thế nào bạn giữ tinh thần sau khi thất bại lớn?',
@@ -183,7 +183,7 @@ let questions = [
 
 
 const SCORE_POINTS = 100
-const MAX_QUESTIONS = 4
+const MAX_QUESTIONS = 20
 
 startGame = () => {
     questionCounter = 0
