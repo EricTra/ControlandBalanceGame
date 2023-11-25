@@ -21,7 +21,7 @@ body {
 
 .choice-prefix {
     padding: 1.5rem 2rem; /* Adjust padding for choice prefix */
-    color: rgb(0, 0, 0);
+    color: rgb(6, 6, 6);
 }
 
 .choice-text {
