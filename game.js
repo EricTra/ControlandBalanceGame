@@ -29,7 +29,7 @@ let questions = [
     },
     {
         question: 'Cách bạn đối phó với áp lực học tập lớn?',
-        choice1: 'Tôi chia nhỏ công việc, tạo lịch học tập hiệu quả và giữ tâm trí tích cực để không để cảm xúc chi phối quyết định.',
+        choice1: 'Tôi chia nhỏ công việc, tạo lịch học tập hiệu quả và giữ tâm trí tích cực.',
         choice2: 'Tôi hoàn toàn từ bỏ học tập khi gặp áp lực lớn.',
         choice3: 'Tôi dùng các phương pháp làm việc không hiệu quả để giải quyết áp lực học tập.',
         choice4: 'Tôi tự ép buộc bản thân hoạt động không ngừng mà không nghỉ ngơi.',
@@ -104,7 +104,7 @@ let questions = [
         choice1: 'Bỏ cuộc và không còn đóng góp ý kiến trong công việc nhóm khi gặp khó khăn.',
         choice2: 'Tự cô lập và không hợp tác với đồng đội khi gặp cảm xúc cao điểm.        ',
         choice3: 'Chủ động chỉ trích và phê phán người khác khi gặp khó khăn trong công việc nhóm.',
-        choice4: 'Nếu gặp tình huống cảm xúc cao điểm, tôi lắng nghe ý kiến của người khác và cố gắng hiểu quan điểm của họ để duy trì sự bình tĩnh và tìm ra giải pháp chung.',
+        choice4:  'Tôi lắng nghe ý kiến của người khác và cố gắng hiểu quan điểm của họ để duy trì sự bình tĩnh và tìm ra giải pháp chung.',
         answer: 4,
     },
     {
@@ -172,14 +172,16 @@ let questions = [
         answer: 4,
     },
     {
-        question: 'Làm thế nào bạn giữ tinh thần sau khi thất bại lớn?',
-        choice1: 'Rơi vào trạng thái tiêu cực, tự biểu lộ sự tự ti và thất vọng.',
-        choice2: 'Đổ lỗi cho người khác hoặc hoàn cảnh khi gặp thất bại lớn.',
-        choice3: 'Bỏ cuộc và không còn nỗ lực gì sau thất bại lớn.',
-        choice4: 'Tập trung vào học hỏi từ kinh nghiệm, xác định mục tiêu mới và duy trì sự lạc quan để không bị ảnh hưởng quá mức.',
+        question: 'Khi biết mình là nạn nhân của bạo lực học đường thường xuyên đối mặt với các hành vi gây hấn từ bạn bè, bạn sẽ làm gì?',
+        choice1: 'Tự mình giải quyết vấn đề mình đang gặp phải, không chia sẻ bộc lộ với ai khác.',
+        choice2: 'Thường xuyên sống khép kín, một mình.',
+        choice3: 'Giấu bố mẹ thầy cô vì sợ họ buồn và lo lắng.',
+        choice4: 'Nói và chia sẻ cho bố mẹ, thầy cô để có được biện pháp xử lí hiệu quả vấn đề đang gặp phải.',
+        answer: 4,
         answer: 4,
     }
 ];
+
 
 
 const SCORE_POINTS = 100
